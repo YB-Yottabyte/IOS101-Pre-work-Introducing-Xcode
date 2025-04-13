@@ -1,7 +1,7 @@
 # IOS101-Pre-work-Introducing-Xcode
 Submitted by: **Sai Rithwik Kukunuri**
 
-**About Me** is a fun app that shows some basic information about me. When the button is pressed, the background color changes and it displays the my name and a new details about me.
+**About Me** is a fun app that shows some basic information about me. When the button is pressed, the background color changes and it displays the my name and a few details about me.
 
 Time spent: **1.5** hours spent in total
 
